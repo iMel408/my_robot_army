@@ -1,0 +1,708 @@
+Abaddon
+Abyssal Underlord
+Alchemist
+Ancient Apparition
+Anti-Mage
+Arc Warden
+Axe
+Bane
+Batrider
+Beastmaster
+Bloodseeker
+Bounty Hunter
+Brewmaster
+Bristleback
+Broodmother
+Centaur Warrunner
+Chaos Knight
+Chen
+Clinkz
+Clockwerk
+Crystal Maiden
+Dark Seer
+Dazzle
+Death Prophet
+Disruptor
+Doom
+Dragon Knight
+Drow Ranger
+Earth Spirit
+Earthshaker
+Elder Titan
+Ember Spirit
+Enchantress
+Enigma
+Faceless Void
+Grimstroke
+Gyrocopter
+Huskar
+Invoker
+Io
+Jakiro
+Juggernaut
+Keeper of the Light
+Kunkka
+Legion Commander
+Leshrac
+Lich
+Lifestealer
+Lina
+Lion
+Lone Druid
+Luna
+Lycan
+Magnus
+Medusa
+Meepo
+Mirana
+Morphling
+Naga Siren
+Nature’s Prophet
+Necrophos
+Night Stalker
+Nyx Assassin
+Ogre Magi
+Omniknight
+Oracle
+Outworld Devourer
+Phantom Assassin
+Phantom Lancer
+Phoenix
+Puck
+Pudge
+Pugna
+Queen of Pain
+Razor
+Riki
+Rubick
+Sand King
+Shadow Demon
+Shadow Fiend
+Shadow Shaman
+Silencer
+Skywrath Mage
+Slardar
+Slark
+Sniper
+Spectre
+Spirit Breaker
+Storm Spirit
+Sven
+Techies
+Templar Assassin
+Terrorblade
+Tidehunter
+Timbersaw
+Tinker
+Tiny
+Treant Protector
+Troll Warlord
+Tusk
+Undying
+Ursa
+Vengeful Spirit
+Venomancer
+Viper
+Visage
+Warlock
+Weaver
+Windranger
+Winter Wyvern
+Witch Doctor
+Wraith King
+Zeus
+Abyssal Blade
+Acid Spray
+Adaptive Strike
+Aegis of the Immortal
+Aeon Disk
+Aether Lens
+Aghanim's Scepter
+Alacrity
+Anchor Smash
+Ancient Seal
+Animal Courier
+Aphotic Shield
+Arc Lightning
+Arcane Aura
+Arcane Bolt
+Arcane Boots
+Arcane Curse
+Arcane Orb
+Arcane Rune
+Arctic Burn
+Armlet of Mordiggian
+Assassinate
+Assault Cuirass
+Astral Imprisonment
+Astral Spirit
+Avalanche
+Ball Lightning
+Band of Elvenskin
+Battery Assault
+Battle Cry
+Battle Fury
+Battle Hunger
+Battle Trance
+Bedlam
+Belt of Strength
+Beserkers Call
+Black Hole
+Black King Bar
+Blade Fury
+Blade Mail
+Blade of Alacrity
+Blades of Attack
+Blast Off
+Blight Stone
+Blinding Light
+Blink
+Blink
+Blink Dagger
+Blink Strike
+Blood Rite
+Bloodlust
+Bloodrage
+Bloodstone
+Bloodthorn
+Blur
+Boots of Speed
+Boots of Travel
+Borrowed Time
+Bottle
+Boulder Smash
+Boundless Strike
+Bounty Rune
+Bracer
+Brain Sap
+Bramble Maze
+Breathe Fire
+Broadsword
+Buckler
+Burning Spear
+Burrowstrike
+Butterfly
+Call Down
+Call of the Wild
+Chain Frost
+Chainmail
+Chakra Magic
+Chakram
+Chaos Bolt
+Chaos Meteor
+Chaos Strike
+Chaotic Offering
+Charge of Darkness
+Cheese
+Chemical Rage
+Chilling Touch
+Chronosphere
+Circlet
+Clarity
+Claymore
+Cloak
+Cold Embrace
+Cold Feet
+Cold Snap
+Concussive Shot
+Corrosive Haze
+Counter Helix
+Coup de Grace
+Crimson Guard
+Crippling Fear
+Crypt Swarm
+Crystal Nova
+Crystalys
+Culling Blade
+Cursed Crown
+Daedalus
+Dagon
+Dark Pact
+Dark Rift
+Darkness
+Deafening Blast
+Death Pact
+Death Pulse
+Death Ward
+Decay
+Decrepify
+Demon Edge
+Demonic Conversion
+Demonic Purge
+Desolator
+Devour
+Diabolic Edict
+Diffusal Blade
+Dismember
+Disruption
+Divided We Stand
+Divine Rapier
+Doppeldanger
+Double Damage
+Double Edge
+Dragon Lance
+Dragon Slave
+Dragon Tail
+Dream Coil
+Drum of Endurance
+Drunken Brawler
+Drunken Haze
+Dual Breath
+Duel
+Dust of Appearance
+Eaglesong
+Earth Spike
+Earth Splitter
+Earthbind
+Earthshock
+Echo Sabre
+Echo Slam
+Echo Stomp
+Eclipse
+Elder Dragon Form
+Electric Vortex
+EMP
+Empower
+Empowering Haste
+Enchant
+Enchant Totem
+Enchanted Mango
+Energy Booster
+Enfeeble
+Enrage
+Ensnare
+Epicenter
+Ether Shock
+Ethereal Blade
+Eul's Scepter of Divinity
+Exorcism
+Eye of Skadi
+Eye of the Storm
+Fade Bolt
+Faerie Fire
+False Promise
+Fatal Bonds
+Fates Edict
+Fiends Grip
+Finger of Death
+Fire Remnant
+Fire Spirits
+Fireblast
+Firefly
+Firestorm
+Fissure
+Flak Cannon
+Flame Guard
+Flamebreak
+Flaming Lasso
+Flesh Golem
+Flesh Heap
+Flux
+Focus Fire
+Force Staff
+Forge Spirit
+Fortunes End
+Freezing Field
+Frost Arrows
+Frost Blast
+Frostbite
+Frozen Sigil
+Fury Swipes
+Gauntlets of Strength
+Gem of True Sight
+Geminate Attack
+Geomagnetic Grip
+Ghost Scepter
+Ghost Shroud
+Ghost Walk
+Ghostship
+Glaives of Wisdom
+Glimmer Cape
+Glimpse
+Global Silence
+Gloves of Haste
+Gods Strength
+Grave Chill
+Great Cleave
+Greater Bash
+Greevils Greed
+Grow
+Guardian Angel
+Guardian Greaves
+Guardian Sprint
+Gush
+Gust
+Hand of God
+Hand of Midas
+Haste Rune
+Haunt
+Headdress
+Headshot
+Healing Salve
+Healing Ward
+Heart of Tarrasque
+Heartpiercer
+Heartstopper Aura
+Heat Seeking Missile
+Heaven's Halberd
+Helm of Iron Will
+Helm of the Dominator
+Hex
+Holy Persuasion
+Homing Missile
+Hood of Defiance
+Hoof Stomp
+Hookshot
+Howl
+Hunter in the Night
+Hurricane Pike
+Hyperstone
+Icarus Dive
+Ice Armor
+Ice Blast
+Ice Path
+Ice Shards
+Ice Vortex
+Ice Wall
+Ignite
+Illuminate
+Illusion Rune
+Illusory Orb
+Impale
+Impetus
+Incapacitating Bite
+Infernal Blade
+Infest
+Infused Raindrop
+Ink Swell
+Inner Vitality
+Insatiable Hunger
+Intelligence Steal
+Invisibility Rune
+Ion Shell
+Iron Branch
+Javelin
+Jinada
+Jingu Mastery
+Juxtapose
+Kaya
+Kinetic Field
+Laguna Blade
+Laser
+Last Word
+Leap
+Leech Seed
+Life Break
+Life Drain
+Light Strike Array
+Lightning Bolt
+Lightning Storm
+Linken's Sphere
+Liquid Fire
+Living Armor
+Lotus Orb
+Lucent Beam
+Macropyre
+Maelstrom
+Magic Missile
+Magic Stick
+Magic Wand
+Magnetic Field
+Magnetize
+Maledict
+Malefice
+Mana Break
+Mana Burn
+Mana Drain
+Mana Leak
+Mana Void
+Manta Style
+Mantle of Intelligence
+March of the Machines
+Marksmanship
+Mask of Madness
+Mass Serpent Ward
+Meat Hook
+Medallion of Courage
+Mekansm
+Meld
+Meteor Hammer
+Midnight Pulse
+Minefield Sign
+Mirror Image
+Mischief
+Mist Coil
+Mithril Hammer
+Mjollnir
+Moment of Courage
+Monkey King Bar
+Moon Glaives
+Moon Shard
+Moonlight Shadow
+Morbid Mask
+Morph
+Mortal Strike
+Multicast
+Mystic Flare
+Mystic Snake
+Mystic Staff
+Natures Attendants
+Natures Call
+Natures Guise
+Necronomicon
+Nether Blast
+Nether Strike
+Nether Swap
+Nether Ward
+Nethertoxin
+Nightmare
+Nimbus
+Null Talisman
+Nullifier
+Oblivion Staff
+Observer Ward
+Octarine Core
+Ogre Axe
+Omnislash
+Open Wounds
+Orb of Venom
+Orchid Malevolence
+Overgrowth
+Overpower
+Overwhelming Odds
+Paralyzing Cask
+Penitence
+Perseverance
+Phantasm
+Phantom Strike
+Phantoms Embrace
+Phase Boots
+Phase Shift
+Pipe of Insight
+Pit of Malice
+Plague Ward
+Plasma Field
+Platemail
+Point Booster
+Poison Attack
+Poison Nova
+Poison Touch
+Poof
+Pounce
+Power Cogs
+Power Treads
+Powershot
+Precision Aura
+Press the Attack
+Primal Roar
+Primal Split
+Primal Spring
+Proximity Mines
+Psi Blades
+Psionic Trap
+Purification
+Purifying Flames
+Quarterstaff
+Quelling Blade
+Quill Spray
+Rabid
+Radiance
+Rage
+Ravage
+Reactive Armor
+Reality
+Reality Rift
+Reapers Scythe
+Rearm
+Reaver
+Recall
+Refraction
+Refresher Orb
+Refresher Shard
+Regeneration Rune
+Reincarnation
+Relocate
+Remote Mines
+Repel
+Requiem of Souls
+Return
+Reverse Polarity
+Ring of Aquila
+Ring of Basilius
+Ring of Health
+Ring of Protection
+Ring of Regen
+Rip Tide
+Robe of the Magi
+Rocket Barrage
+Rocket Flare
+Rod of Atos
+Rolling Thunder
+Rupture
+Sacred Arrow
+Sacred Relic
+Sacrifice
+Sage's Mask
+Sand Storm
+Sange
+Sange and Yasha
+Sanitys Eclipse
+Satanic
+Savage Roar
+Scorched Earth
+Scream of Pain
+Scythe of Vyse
+Searing Arrows
+Searing Chains
+Sentry Ward
+Shackles
+Shackleshot
+Shadow Amulet
+Shadow Blade
+Shadow Dance
+Shadow Poison
+Shadow Realm
+Shadow Strike
+Shadow Strike
+Shadow Walk
+Shadow Wave
+Shadow Word
+Shadowraze
+Shallow Grave
+Shapeshift
+Shield Crash
+Shiva's Guard
+Shockwave
+Shrapnel
+Shukuchi
+Shuriken Toss
+Silence
+Silver Edge
+Skeleton Walk
+Skewer
+Skull Basher
+Sleight of Fist
+Slippers of Agility
+Slithereen Crush
+Smoke of Deceit
+Smoke Screen
+Snowball
+Solar Crest
+Song of the Siren
+Sonic Wave
+Soul Assumption
+Soul Booster
+Soul Catcher
+Soul Ring
+Soul Rip
+Soulbind
+Spark Wraith
+Spawn Spiderlings
+Spectral Dagger
+Spell Shield
+Spell Steal
+Spiked Carapace
+Spin Web
+Spirit Form
+Spirit Lance
+Spirit Siphon
+Spirit Vessel
+Spirits
+Splinter Blast
+Split Earth
+Split Shot
+Sprout
+Staff of Wizardry
+Stampede
+Starstorm
+Stasis Trap
+Static Link
+Static Remnant
+Static Storm
+Sticky Napalm
+Stifling Dagger
+Stone Gaze
+Stone Remnant
+Storm Hammer
+Stout Shield
+Strafe
+Stroke of Fate
+Summon Familiars
+Summon Spirit Bear
+Summon Wolves
+Sun Strike
+Sunder
+Sunray
+Supernova
+Surge
+Swashbuckle
+Talisman of Evasion
+Tango
+Telekinesis
+Teleportation
+Tempest Double
+Terrorize
+Test of Faith
+Tether
+The Swarm
+Thirst
+Thunder Clap
+Thunder Strike
+Thundergods Wrath
+Tidebringer
+Timber Chain
+Time Dilation
+Time Lapse
+Time Lock
+Time Walk
+Tombstone
+Tome of Knowledge
+Tornado
+Torrent
+Toss
+Town Portal Scroll
+Track
+Tranquil Boots
+Trap
+Tree Dance
+Tree Grab
+Tree Throw
+Tricks of the Trade
+True Form
+Ultimate Orb
+Unstable Concoction
+Untouchable
+Upheaval
+Urn of Shadows
+Vacuum
+Vanguard
+Veil of Discord
+Vendetta
+Venomous Gale
+Viper Strike
+Viscous Nasal Goo
+Vitality Booster
+Vladmir's Offering
+Void
+Void Stone
+Wall of Replica
+Walrus Kick
+Walrus Punch
+Waning Rift
+Warcry
+Wave of Terror
+Waveform
+Weave
+Whirling Axes
+Whirling Death
+Wild Axes
+Wind Lace
+Windrun
+Winters Curse
+Wraith Band
+Wraithfire Blast
+Wrath of Nature
+Wukongs Command
+X Marks the Spot
+Yasha
+Zeus
