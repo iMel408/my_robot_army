@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 from random import randrange, sample
 import decimal
 
@@ -19,26 +19,26 @@ class Robot():
     def __init__(self):
 
         self.unit_id = id(self)
-        print("self.unit_id:", self.unit_id)
+        print("unit_id:", self.unit_id)
         names = sample(lines, len(lines))
         self.unit_name = names.pop(0)
-        print("self.unit_name:", self.unit_name)
+        print("unit_name:", self.unit_name)
         self.status = 'active' #inactive
-        print("self.status:", self.status)
-        self.date_built = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        print("self.date_built:", self.date_built)
-        self.health_level = 100
+        print("[initial] status:", self.status)
+        self.date_built = datetime.now()#.strftime("%Y-%m-%d %H:%M:%S")
+        print("date_built:", self.date_built)
         self.health_capacity = 100 #TODO: move to subclass
-        print("self.health_level (initial):", self.health_level)
+        self.health_level = 100
+        print("[initial] health_level:", self.health_level)
         self.condition = 'good'  #critical
-        print("self.condition:", self.condition)
-        self.last_health_check = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        print("self.last_health_check:", self.last_health_check)
+        print("condition:", self.condition)
+        self.last_health_check = datetime.now()#.strftime("%Y-%m-%d %H:%M:%S")
+        print("[initial] last_health_check:", self.last_health_check)
         # charge capacity and level in hours
         self.charge_capacity = 12
-        print("self.charge_capacity:", self.charge_capacity)
+        print("charge_capacity:", self.charge_capacity)
         self.charge_level = 0
-        print("charge_level (initial):", self.charge_level)
+        print("[initial] charge_level:", self.charge_level)
 
 
     def charge(self):
@@ -46,7 +46,6 @@ class Robot():
 
         self.charge_level = self.charge_capacity
         self.last_full_charge = datetime.now()
-        print("charge_level (after):", self.charge_level)
         # print("Fully Charged. 12 hours remaining")
 
         # health level in units of 10/100.
@@ -54,7 +53,6 @@ class Robot():
     def check_condition(self):
         """ check the robots current health status"""
 
-        self.last_health_check = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         self.shots_incurred = randrange(1,101,10)
         self.health_level = self.health_level - self.shots_incurred
 
@@ -62,32 +60,48 @@ class Robot():
         if self.health_level in range(1,31) and self.charge_level in range(1,round(self.charge_capacity/3)):
             self.condition = 'critical'
         elif self.health_level in range(31,self.health_capacity + 1) \
-                and self.charge_level in range(round(self.charge_capacity/3),self.charge_capacity):
+                and self.charge_level in range(round(self.charge_capacity/3),self.charge_capacity +1):
             self.condition = 'good'
         else:
             self.condition = 'out of commission'
             self.status = 'inactive'
 
-
+        self.last_health_check = datetime.now() #.strftime("%Y-%m-%d %H:%M:%S")
 
         # self.current_health = diff(self.last_health_check, datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-        print("self.health_level:", self.health_level)
-        print("self.shots_incurred:", self.shots_incurred)
-        print("self.condition:", self.condition)
-        print("self.status:", self.status)
-        print("self.last_health_check:", self.last_health_check)
+        print("[after] health_level:", self.health_level)
+        print("shots_incurred:", self.shots_incurred)
+        print("[after] condition (after):", self.condition)
+        print("[after] status:", self.status)
+        print("[after] last_health_check:", self.last_health_check)
         # print("self.current_health:", self.current_health)
 
     def check_charge(self):
         """ check the number of hours of charge left"""
+        datetimeFormat = '%Y-%m-%d %H:%M:%S.%f'
 
-        charge_remaining = round((datetime.now() - self.last_full_charge).total_seconds() / SECONDS_PER_HOUR)
+        diff = datetime.strptime(str(datetime.now()), datetimeFormat) \
+               - datetime.strptime(str(self.last_full_charge), datetimeFormat)
 
-        print("self.charge_remaining:", charge_remaining)
+        charge_hours_remaining = diff.seconds / 3600
+        charge_minutes_remaining = diff.seconds / 60
+
+        self.charge_level = self.charge_level - charge_hours_remaining
+
+        # charge_remaining = round((datetime.now() - self.last_full_charge).total_seconds() / SECONDS_PER_HOUR)
+
+        # hrs_since_full_charge = (self.last_full_charge - datetime.now()).total_seconds() / 60
+        # hrs_since_full_charge = (datetime.now() - self.last_full_charge).total_seconds() / SECONDS_PER_HOUR
 
 
-# decimal.Decimal('3.5').quantize(decimal.Decimal('1'),
-#     rounding=decimal.ROUND_HALF_DOWN)
+        # charge_remaining = round(self.charge_level - (datetime.now() - ).total_seconds() / SECONDS_PER_HOUR)
+
+
+        print("charge_hours_remaining:", charge_hours_remaining)
+        print("charge_minutes_remaining:", charge_minutes_remaining)
+        print("[after] charge_level:", self.charge_level)
+
+
 
 new_robot = Robot()
 new_robot.charge()
@@ -107,15 +121,14 @@ class SubRole(Role):
     """
     pass
 
-def check_battle_inventory():
-    """ create report on number of units cut by role/subrole/status/health_condition/
-    """
+    def check_inventory():
+        """ create report on number of units cut by role/subrole/status/health_condition/
+        """
     pass
 
 class Skirmishes():
     """create battle scenarios to be applied to overall battle"""
 
-    #
     # def apply_damage(self):
 
     pass
