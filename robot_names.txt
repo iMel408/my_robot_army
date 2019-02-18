@@ -1,7 +1,6 @@
 Abaddon
 Abyssal Underlord
 Alchemist
-Ancient Apparition
 Anti-Mage
 Arc Warden
 Axe
@@ -146,7 +145,7 @@ Battle Hunger
 Battle Trance
 Bedlam
 Belt of Strength
-Beserkers Call
+Beserkers
 Black Hole
 Black King Bar
 Blade Fury
@@ -182,18 +181,12 @@ Buckler
 Burning Spear
 Burrowstrike
 Butterfly
-Call Down
-Call of the Wild
 Chain Frost
 Chainmail
-Chakra Magic
 Chakram
 Chaos Bolt
 Chaos Meteor
 Chaos Strike
-Chaotic Offering
-Charge of Darkness
-Cheese
 Chemical Rage
 Chilling Touch
 Chronosphere
@@ -247,7 +240,6 @@ Dream Coil
 Drum of Endurance
 Drunken Brawler
 Drunken Haze
-Dual Breath
 Duel
 Dust of Appearance
 Eaglesong
