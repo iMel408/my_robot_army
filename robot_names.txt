@@ -12,7 +12,8 @@ Bounty Hunter
 Brewmaster
 Bristleback
 Broodmother
-Centaur Warrunner
+Centaur
+Warrunner
 Chaos Knight
 Chen
 Clinkz
@@ -480,7 +481,6 @@ Power Cogs
 Power Treads
 Powershot
 Precision Aura
-Press the Attack
 Primal Roar
 Primal Split
 Primal Spring
@@ -532,7 +532,8 @@ Sacrifice
 Sage's Mask
 Sand Storm
 Sange
-Sange and Yasha
+Sange
+Yasha
 Sanitys Eclipse
 Satanic
 Savage Roar
